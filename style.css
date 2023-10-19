@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e6e6e6;
+}
+
+
+header h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20vh;
+    text-align: center;
+    background-image: linear-gradient(to right, #1d7474, #297373);
+    height: 70vh;
+    padding-top: 20vh;
+    color: #0e0e0e;
+}
+
+main h1 {
+    text-align: center;
+    margin: 5vh auto;
+    font-size: 6vh;
+}
+
+main h2 {
+    text-align: center;
+    font-size: 5vh;
+}
+
+section {
+    padding: 2vh;
+}
+
+section li {
+    margin: 3vh;
+}
+
+#sec1 {
+    background-image: linear-gradient(to right, #ff8552, #ff9567);
+    margin-bottom: 4vh;
+}
+
+#sec2 {
+    background-image: linear-gradient(to right, #85ffc6b0, #6effbbb9);
+}
+
+ul {
+    margin: auto auto auto 2vw;
+}
+
+li {
+    font-size: 3vh;
+    
+}
+
+main a {
+    margin: 3vh ;
+    text-decoration: none;
+    color: black;
+}
+
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #e6e6e6;
+}
+
+footer {
+    color: #e6e6e6;
+    background-color: #141414;
+    padding: 2vh;
+    text-align: center;
+
+}
